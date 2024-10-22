@@ -10,7 +10,7 @@
 ### Engine
 <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=ffffff"/>   <img src="https://img.shields.io/badge/Unreal Engine-000000?style=flat&logo=unrealengine&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/DirectX-000000?style=flat&logo=microsoft&logoColor=ffffff"/>
-### Grapics
+### Graphics
 <img src="https://img.shields.io/badge/Photoshop-000000?style=flat&logo=Adobe Photoshop&logoColor=ffffff"/>   <img src="https://img.shields.io/badge/After Effects-000000?style=flat&logo=Adobe After Effects&logoColor=ffffff"/>   <img src="https://img.shields.io/badge/Blender-000000?style=flat&logo=blender&logoColor=ffffff"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0ddarri&&show_icons=true&theme=dark)
