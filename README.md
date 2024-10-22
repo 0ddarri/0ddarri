@@ -2,8 +2,7 @@
 
  - 💻   **Game Developer**  
  - 😊   **Original Name : 황재진**
- - 📧   **eungania88@gmail.com**
- - ☕️ **[Buy me a coffee](https://www.buymeacoffee.com/0ddarri)**
+ - 📧   **ghkdwowls0214@gmail.com**
 
 ## Skill
 ### language
